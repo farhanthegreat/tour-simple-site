@@ -1,0 +1,18 @@
+/* Navigation Styles */
+.navbar{
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar img{
+    height: 50px;
+    width: 65px;
+}
+
+.navbar ul li{
+    list-style: none;
+    color: chocolate;
+}
